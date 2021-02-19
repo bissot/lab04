@@ -21,8 +21,15 @@ I think that the easiest license to justify is the linux license. It was always 
 # answer to 7
 https://github.com/MattCzyr/Lab04 
 
-
-
+# question 8 table
+| Website | License Present | License |
+| ------- | --------------- | ------- |
+| https://github.com/albmej/ai-gym-tracker | Yes | MIT License |
+| https://github.com/rpi-alpaca/alpaca | Yes | MIT License |
+| https://github.com/kaijianz/alvitr | Yes | MIT License |
+| https://github.com/tdurkin18/anagrams | Yes | GNU GENERAL PUBLIC LICENSE |
+| https://github.com/anchor-site/anchor | Yes | The MIT License |
+ 
 
 
 
