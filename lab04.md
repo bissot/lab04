@@ -8,5 +8,22 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # answer to question 3
 A license is so important because it protects the creator of the software, the software, and the users of the software. This protection protects the creator because it gives them rights to the relating to the software and gives them rights to distribute the software how they please. It protects the software because it protects how the software can be modified. Finally it protects the users of the software because it prevents people from using the software in ways unintended ways from a project with no license.
+
 # answer to question 4
 You shouldnt use a project that doesnt have a license because it puts you at risks of using the software maliciously. By this I mean if you are using a software assuming that it is open and free and the license is added later making it closed, you could have potentially broken the license and be in legal trouble. When a project has a well predefined license, it protects you from legal trouble when you use it.  
+
+# answer to question 5
+I think that I agree with this claim. From my understanding of open source software so far, having a strong community surrounding it seems to be one of the most important aspects of an open source community. If this splintering occurs to a project, I can easily see how this could destroy a project like this. 
+
+# answer to question 6
+
+
+
+
+
+
+
+
+
+
+
