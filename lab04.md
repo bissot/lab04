@@ -16,6 +16,10 @@ You shouldnt use a project that doesnt have a license because it puts you at ris
 I think that I agree with this claim. From my understanding of open source software so far, having a strong community surrounding it seems to be one of the most important aspects of an open source community. If this splintering occurs to a project, I can easily see how this could destroy a project like this. 
 
 # answer to question 6
+I think that the easiest license to justify is the linux license. It was always developed with open source in mind, and its license reflects this. From the https://www.linux.com/what-is-linux/ , linux is described as "Linux is an operating system that is by the people, for the people".
+
+# answer to 7
+https://github.com/MattCzyr/Lab04 
 
 
 
